@@ -1,0 +1,23 @@
+# Ignore system and application specific files
+/application/config/database.php
+/application/config/config.php
+
+# Ignore uploaded user files (if applicable)
+/data/upload/
+
+# Ignore cached and temporary files
+/data/cache/
+/data/tmp/
+
+# Ignore log files
+/logs/
+
+# Ignore Gnuboard-specific files and directories
+/files/
+/editor/
+
+# Ignore PHPStorm project files (if you use PHPStorm)
+/.idea/
+
+# Ignore macOS system files (if you are using a Mac)
+.DS_Store
