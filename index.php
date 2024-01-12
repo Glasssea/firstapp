@@ -14,7 +14,9 @@
         <section class="photo-gallery">
             <?php for ($i=0; $i<10; $i++) { ?>
             <div class="photo">
-                <img src="img<?=$i+1?>.png" alt="임시 이미지 <?=$i?>">
+                <a href="img.php?imgname=<?=$i+1?>">
+                    <img src="img<?=$i+1?>.png" alt="임시 이미지 <?=$i?>">
+                </a>
             </div>
             <?php } ?>
             <!-- 여기에 더 많은 사진 추가 가능 -->
