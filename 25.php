@@ -1,3 +1,4 @@
 <?php
-echo $_GET['id'];
+echo 'Welcome, ' .$_GET['id'];
+echo $_GET['id'].','.$_GET['password'];
 ?>
