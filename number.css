@@ -1,0 +1,112 @@
+body{
+    font-size:5px;
+}
+.wall_5{
+    position:absolute;
+    top:0px;
+    background-color:rgb(255, 243, 219);
+    border: solid 1px;
+    width:585px;
+    height: 135.5px;
+}
+.hollpaper_5{
+    position:absolute;
+    top:42.5px;
+    left:294px;
+    background-color: white;
+    width:35px;
+    height:66.5px;
+}
+.holl_5{
+    background-color: black;
+    position:absolute;
+    width:20px;
+    height:60px;
+    top:5px;
+    left:8px;
+}
+.water_5{
+    background-color: blue;
+    position: absolute;
+    right:190px;
+    width:26px;
+    height: 20px;
+    bottom: 0px;
+}
+.board_5{
+    background-color: rgba(255, 180, 180, 0.8);
+    position:absolute;
+    top:8px;
+    left:100px;
+    width:240px;
+    height:120px;   
+}
+
+.wall_4{
+    position: absolute;
+    top:250px;
+    height:169px;
+    width: 593.5px;
+    background-color:rgb(255, 243, 219);
+}
+
+.holl_4{
+    position:absolute;
+    top:77.5px;
+    left:315px;
+    width:18px;
+    height: 52px;
+    background-color: black;
+}
+
+.board_4{
+    top:30px;
+    left:40px;
+    position: absolute;
+    width:240px;
+    height:120px;
+    background-color:aqua;
+}
+.board_41{
+    top:30px;
+    left:280px;
+    position: absolute;
+    width:240px;
+    height:120px;
+    background-color: blueviolet;
+}
+
+
+
+.wall_3{
+    background-color: antiquewhite;
+    border:solid 1px black;
+    position:absolute;
+    top:500px;
+    left:100px;
+    width:291px;
+    height:157px;
+}
+.bluewall_3{
+    top:0px;
+    position: absolute;
+    background-color: blue;
+    width:61px;
+    height: 157px;
+}
+.board_3{
+    position: absolute;
+    top:0px;
+    left:0px;
+    width: 120px;
+    height:157px;
+    background-color: rgb(255, 180, 180);
+}
+.board_31{
+    position: absolute;
+    top:0px;
+    left:120px;
+    width: 120px;
+    height:157px;
+    background-color: rgb(232, 245, 89);
+}
